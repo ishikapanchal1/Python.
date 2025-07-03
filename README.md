@@ -1,2 +1,2 @@
 # ASSIGNMENT-
-Pythyon
+Python
